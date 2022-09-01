@@ -18,6 +18,6 @@ print((x+y)/2)
 ab123= 20
 print(ab123)
 
-class=20
-print(class)
+#class=20
+#print(class)
 
