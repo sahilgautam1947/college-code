@@ -18,8 +18,6 @@ print((x+y)/2)
 #print(class)
 # the words like class and print cannot be used as variables
 
-
 ab123= 20
 print(ab123)
-
 
