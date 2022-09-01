@@ -20,4 +20,4 @@ print((x+y)/2)
 
 ab123= 20
 print(ab123)
-
+print(1+2+3+4)
