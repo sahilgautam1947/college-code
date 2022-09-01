@@ -14,10 +14,12 @@ print((x+y)/2)
 # ABC upper case
 # start with either underscore or alphabets but not with letters
 # mixing is allowed
+#class=20
+#print(class)
+# the words like class and print cannot be used as variables
+
 
 ab123= 20
 print(ab123)
 
-#class=20
-#print(class)
 
