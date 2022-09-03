@@ -95,3 +95,25 @@ print(b*3)
 # 
 #bodmass for python
 #########
+
+
+
+# please note that if you are running a selection in the terminal then take care as if you don't select the whole lines then theer might be an syntax error
+
+# > a="fun"
+# >>> b="class"
+# >>> print(a+b
+# ...
+# ... a="fun"
+#   File "<stdin>", line 3
+#     a="fun"
+#     ^
+# SyntaxError: invalid syntax
+# >>> b="class"
+# >>> print(a+b)
+# funclass
+# >>> a="fun"
+# >>> b="class"
+# >>> print(a+b)
+# funclass
+# >>>
