@@ -65,7 +65,7 @@
 # # 'sahil'
 # # >>>
 
-# # if you declared a string as a variable then you need not use"" as it is a variable 
+# # if you declared a string as a variable then you need not use"" as it is a variable in the print expression 
 
 
 
